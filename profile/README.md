@@ -2,6 +2,9 @@
 
 Geoinformatics Center (GIC) is a leading Remote Sensing and GIS organization in South East Asia. Recognizing the emerging importance of spatial technologies and the potential future demand for skilled professionals, GIC was established in Asian Institute of Technology in 1995 (in the beginning GIC was called GIS Application Center - GAC) .  The aim was to create an environement that would help the need of the region in term of short-term training courses that are tailored to address potential applications in the regions. The initial financial support was provided by UNEP/RRC-AP. 
 
+- [GIC board](https://geoinfo.ait.ac.th/about-us/gic-board/)
+- [Our Team](https://geoinfo.ait.ac.th/about-us/our-team/)
+
 <!--
 
 **Here are some ideas to get you started:**
